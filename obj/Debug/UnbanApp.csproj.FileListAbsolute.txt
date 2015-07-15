@@ -1,0 +1,10 @@
+c:\users\kk\documents\visual studio 2012\Projects\UnbanApp\UnbanApp\bin\Debug\UnbanApp.exe.config
+c:\users\kk\documents\visual studio 2012\Projects\UnbanApp\UnbanApp\obj\Debug\UnbanApp.csprojResolveAssemblyReference.cache
+c:\users\kk\documents\visual studio 2012\Projects\UnbanApp\UnbanApp\bin\Debug\UnbanApp.exe
+c:\users\kk\documents\visual studio 2012\Projects\UnbanApp\UnbanApp\bin\Debug\UnbanApp.pdb
+c:\users\kk\documents\visual studio 2012\Projects\UnbanApp\UnbanApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\kk\documents\visual studio 2012\Projects\UnbanApp\UnbanApp\bin\Debug\NLog.dll
+c:\users\kk\documents\visual studio 2012\Projects\UnbanApp\UnbanApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\kk\documents\visual studio 2012\Projects\UnbanApp\UnbanApp\bin\Debug\NLog.xml
+c:\users\kk\documents\visual studio 2012\Projects\UnbanApp\UnbanApp\obj\Debug\UnbanApp.exe
+c:\users\kk\documents\visual studio 2012\Projects\UnbanApp\UnbanApp\obj\Debug\UnbanApp.pdb
