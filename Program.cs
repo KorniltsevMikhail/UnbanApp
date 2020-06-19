@@ -20,8 +20,8 @@ namespace UnbanApp
         {
             try
             {
-                string login = "mmm-94@bk.ru";
-                string pass = "NWCneo000";
+                string login = "example@qwe.ru";
+                string pass = "qweqweqwe";
                 l.Info("Программа запущена");
                 VKApi api = new VKApi();
                 if (!api.Authorize(login, pass, null, null))
